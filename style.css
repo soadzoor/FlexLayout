@@ -30,7 +30,10 @@ header {
 center {
 	background-color: red;
 	flex: 1;
-	padding-top: calc(50vh - 46px);
+}
+
+h2 {
+	margin-top: 50px;
 }
 
 footer {
