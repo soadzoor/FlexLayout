@@ -27,7 +27,7 @@ header {
 	padding: 15px;
 }
 
-center {
+main {
 	background-color: red;
 	flex: 1;
 	/* delete the 3 rows below if you don't want the content to be centered*/
